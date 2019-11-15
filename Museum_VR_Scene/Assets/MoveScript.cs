@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
+// this class is used to move camera 
 public class MoveScript : MonoBehaviour
 {
     float speed = 7.0f; 
@@ -27,3 +29,5 @@ void Update()
        
 
 }
+
+

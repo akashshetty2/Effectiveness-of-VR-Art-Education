@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{69CC4B99-FEAB-EF23-C69F-869B080B639F}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MoveScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RotateScript.cs">
     <Files>
-      <File FileName="Assets/MoveScript.cs" Line="24" Column="29" />
+      <File FileName="Assets/MoveScript.cs" Line="32" Column="1" />
+      <File FileName="Assets/RotateScript.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

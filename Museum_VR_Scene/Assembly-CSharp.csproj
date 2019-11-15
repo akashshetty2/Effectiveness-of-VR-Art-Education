@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\MoveScript.cs" />
+    <Compile Include="Assets\RotateScript.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/akashshetty/Documents/Museum_VR_Scene/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
