@@ -19,6 +19,5 @@ public class RotateScript : MonoBehaviour
         transform.rotation = 
             Quaternion.LookRotation(rotationDir, Vector3.up); 
 
-
     }
 }
