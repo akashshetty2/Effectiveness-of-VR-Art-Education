@@ -2827,7 +2827,7 @@ GameObject:
   - component: {fileID: 1617096009}
   - component: {fileID: 1617096008}
   m_Layer: 5
-  m_Name: 'Untitled '
+  m_Name: 'Marilyn Monroe '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2872,7 +2872,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Texture: {fileID: 2800000, guid: 444661ebd94a1455188be2be25358bf4, type: 3}
+  m_Texture: {fileID: 2800000, guid: 8772bbbdbc41f4b7d94440d3e4e2f6d3, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
