@@ -6,7 +6,7 @@ using UnityEngine;
 // this class is used to move camera 
 public class MoveScript : MonoBehaviour
 {
-    float speed = 7.0f; 
+    float speed = 10.0f; 
 
     // Start is called before the first frame update
     void Start()
