@@ -60,8 +60,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\AbstractCode.cs" />
+    <Compile Include="Assets\BaroqueCode.cs" />
+    <Compile Include="Assets\ItalianCode.cs" />
+    <Compile Include="Assets\ModernCode.cs" />
     <Compile Include="Assets\MoveScript.cs" />
     <Compile Include="Assets\RotateScript.cs" />
+    <Compile Include="Assets\TeleportScript.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />

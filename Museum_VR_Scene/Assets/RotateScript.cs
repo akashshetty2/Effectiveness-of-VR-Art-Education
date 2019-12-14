@@ -20,9 +20,6 @@ public class RotateScript : MonoBehaviour
         float horizontalPos = horizontal * Input.GetAxis("Mouse X");
         float verticalPos = vertical * Input.GetAxis("Mouse Y");
         transform.Rotate(verticalPos, horizontalPos, 0);
-        Vector3 change = new Vector3(horizontalPos, 0, verticalPos);
 
-        transform.position = transform.position + (change * 7.0F *
-            Time.deltaTime); 
     }
 }
